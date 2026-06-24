@@ -1,6 +1,6 @@
-# Hi there, I'm The Anh! 
+# Hi there, I'm The Anh! 👋
 
-# You can call me Felix1way. 👋
+# You can call me Felix1way.
 
 ### 🎬 Video Editor & 💻 Full-Stack Developer
 
