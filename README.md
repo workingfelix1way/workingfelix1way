@@ -1,4 +1,6 @@
-# Hi there, I'm The Anh! You can call me Felix1way. 👋
+# Hi there, I'm The Anh! 
+
+# You can call me Felix1way. 👋
 
 ### 🎬 Video Editor & 💻 Full-Stack Developer
 
@@ -27,7 +29,6 @@ I am a unique blend of a **logical developer** and a **creative visual storytell
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=radial" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your_GitHub_Username]&theme=radial" alt="GitHub Streak" />
 </p>
 
