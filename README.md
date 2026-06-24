@@ -36,7 +36,7 @@ I am a unique blend of a **logical developer** and a **creative visual storytell
 ## 🤝 Connect with Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/the-anh-nguyen-400bb2402/
-- 🎨 **Portfolio / Behance:** [Your Portfolio Link]
+- 🎨 **Portfolio / Behance:** Upcoming...
 - 📧 **Email:** working.theanhnguyen@gmail.com
 - 💬 **Let's talk about:** Web animations, UI/UX, video pacing, or complex backend architecture!
 
