@@ -17,7 +17,7 @@ I am a unique blend of a **logical developer** and a **creative visual storytell
 
 ### 🎬 Video Editing & Motion Design
 - **Core Software:** Final Cut Pro, After Effects.
-- **Design & 3D:** Photoshop, Illustrator, Figma, Blender
+- **Design & 3D:** Photoshop, Illustrator
 
 ---
 
