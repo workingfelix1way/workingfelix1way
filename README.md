@@ -26,14 +26,6 @@ I am a unique blend of a **logical developer** and a **creative visual storytell
 - Upcoming....
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your_GitHub_Username]&theme=radial" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/the-anh-nguyen-400bb2402/
